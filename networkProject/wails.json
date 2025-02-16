@@ -1,0 +1,13 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "networkProject",
+  "outputfilename": "networkProject",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build",
+  "frontend:dev:watcher": "npm run dev",
+  "frontend:dev:serverUrl": "auto",
+  "author": {
+    "name": "jacurick19",
+    "email": "34878168+jacurick19@users.noreply.github.com"
+  }
+}
